@@ -1,0 +1,7 @@
+D:\Programas V.Sutdio\AppConexion\AppConexion\bin\Debug\AppConexion.exe.config
+D:\Programas V.Sutdio\AppConexion\AppConexion\bin\Debug\AppConexion.exe
+D:\Programas V.Sutdio\AppConexion\AppConexion\bin\Debug\AppConexion.pdb
+D:\Programas V.Sutdio\AppConexion\AppConexion\obj\Debug\AppConexion.csproj.AssemblyReference.cache
+D:\Programas V.Sutdio\AppConexion\AppConexion\obj\Debug\AppConexion.csproj.CoreCompileInputs.cache
+D:\Programas V.Sutdio\AppConexion\AppConexion\obj\Debug\AppConexion.exe
+D:\Programas V.Sutdio\AppConexion\AppConexion\obj\Debug\AppConexion.pdb
